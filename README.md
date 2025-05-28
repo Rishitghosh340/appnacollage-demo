@@ -1,3 +1,3 @@
 # appnacollage-demo
 This is my first repository.
-Auther-Rishit Ghosh
+Auther-Rishit(KIIT)
